@@ -1,10 +1,12 @@
 #/bin/bash
 #
-#Created By : Brett Johnson
-#Date       : 25/05/2012
-#Function   : This script creates a debug utilizing 
+# Created By : Brett Johnson
+# Date       : 25/05/2012
+# Function   : This script creates a debug utilizing 
 #             the flow trace function on Fortigate devices
-#Usage      : ./fg-debug-gen.sh
+# Usage      : ./fg-debug-gen.sh
+#
+# Start
 
 echo -e "--------------------------------------------------"
 echo -e "       FORTIGATE FLOW TRACE DEBUG GENERATOR"
@@ -41,3 +43,4 @@ echo -e "diag debug flow filter $filter $value"
 echo -e "diag debug flow trace start $num" 
 echo -e "\n"
 
+# End
