@@ -3,7 +3,7 @@
 # This is a simple perl script that gathers the login attempts to a 
 # fortigate device from the elog.log file on the fortigate device
 #
-# Thanks to Alan Houston for you assistance :)
+# Thanks to Allan Houston for you assistance :)
 #
 # Start
 
