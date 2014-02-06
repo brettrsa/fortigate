@@ -3,7 +3,7 @@
 # This is a simple perl script that formats the data from a fortigate
 # tlog.log file into an easy to read format
 #
-# Thanks go out to Alan Houston for your help with this :)
+# Thanks go out to Allan Houston for your help with this :)
 #
 # Start
 
